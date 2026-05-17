@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-telegram-bot
+requests
+pandas
+openpyxl
+faiss-cpu
+sentence-transformers
+groq
+nest-asyncio
